@@ -5,7 +5,7 @@
 ## Structure
 **SpaceWars** has 2 game modes:
 * ***Classic***: The objective is to avoid the asteroids and try to smash them with the bullets. There are several levels of difficulty incremental with the game time.
-![](docs/bienvenido.jpg)
+![](docs/clasico.jpg)
 
 * ***Survival***:
 
