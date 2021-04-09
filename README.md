@@ -14,7 +14,7 @@
 ![](docs/clasico_puntuacion.jpg)
 
 * ***Survival***: The objective is to avoid the asteroids. For each level, more asteroids will appear making the game more difficult.
-  And if you are lucky, some extra lives may turn out during the game. Who knows :)
+  And if you are lucky, some extra lives may turn out during the game. Who knows ;)
   
 ![](docs/supervivencia.jpg)
 ![](docs/supervivencia_gameover.jpg)
