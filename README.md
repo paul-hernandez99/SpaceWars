@@ -2,6 +2,8 @@
 **SpaceWars** is a terminal game developed in ***C/C++*** and it uses the ***ncurses*** library.
 
 ![](docs/bienvenido.jpg)
+![](docs/menu.jpg)
+
 ## Structure
 **SpaceWars** has 2 game modes:
 * ***Classic***: The objective is to avoid the asteroids and try to smash them with the bullets. There are several levels of difficulty.
