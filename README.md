@@ -1,5 +1,5 @@
 # SpaceWars
-**SpaceWars** is a terminal game developed in ***C/C++*** and it uses the ***ncurses*** library.
+**SpaceWars** is a terminal game developed in ***C++*** and it uses the ***ncurses*** library.
 
 ![](docs/bienvenido.jpg)
 
