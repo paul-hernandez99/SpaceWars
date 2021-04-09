@@ -11,7 +11,7 @@ int MenuInicio::menuInicio()
     start_color();
     init_pair(3, COLOR_WHITE, COLOR_RED);
     attron(COLOR_PAIR(3));
-    printw("    BIENVENIDO A MULTIJUEGOS    ");
+    printw("    SPACEWARS    ");
     attroff(COLOR_PAIR(3));
 
     refresh();
@@ -69,11 +69,8 @@ int MenuInicio::menuInicio()
 }
 void MenuInicio::liberarMemoriaMenuInicio(const char** opciones, WINDOW* inicio)
 {
-		wclear(inicio);
 		werase(inicio);
-		delwin(inicio);
 		erase();
-		clear();
-		wrefresh(inicio);
 		refresh();
+		wrefresh(inicio);
 }

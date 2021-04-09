@@ -363,8 +363,6 @@ void Clasico::reanudarPartida(int* objects, NaveClasico* nave, Asteroide* astero
 	*segundos = (float)objects[contador];
 	*tiempo = (float)objects[contador+1];
 	*disparosAcertados = objects[contador+2];
-
-	delete[] objects;
 }
 
 void Clasico::liberarMemoriaC(NaveClasico* nave, Asteroide* asteroides, int* num_ast, Bala* balas, int* num_balas, int* disparosAcertados, int* disparosConsumidos, WINDOW* ventana, float* segundos, float* tiempo, int* nuevaPartida)

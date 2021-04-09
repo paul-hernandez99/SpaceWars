@@ -96,11 +96,6 @@ int Juego::menuPartidaGuardada()
     	if(eleccion == 10)
     		break;
     }
-    for(int i=0; i<2; i++)
-    {
-    	delete[] opciones[i];
-    }
-    delete[] opciones;
 
     wclear(salida);
     wrefresh(salida);
